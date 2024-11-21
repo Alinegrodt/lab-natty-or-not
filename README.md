@@ -15,6 +15,8 @@ Utilizei o ChatGPT para produzir o texto do resumo e sua adaptação à linguage
 O episódio apresenta os pontos mais imporantantes do famoso livro Disciplina Positiva de Jane Nelsen. Com ele busco auxiliar mães atarefadas que não possuem tempo para ler o livro inteiro a aplicar um pouco da abordagem da autora na educação de seus filhos.
 
 https://mcdn.podbean.com/mf/web/mcr9umm6andwqype/PODCAST_DISCIPLINA_POSITIVAbl8je.mp3
+https://alinegrodt.podbean.com/e/disciplina-positiva/
+
 
 
 ## 💭 Reflexão (Opcional)
