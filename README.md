@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast para mamães cansadas que não têm tempo de ler
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast oferece um breve resumo das ideias principais do livro Disciplina Positiva, de Jane Nelsen.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* IA Generativa ChatGPT para texto e adaptação à linguagem falada
+* ElevenLabs para conversão Text-to-Speech
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para produzir o texto do resumo e sua adaptação à linguagem de podcast, com abertura e encerramento. Em seguida utilizei o ElevenLabs para conversão do texto em fala usando uma voz feminina brasileira para a narração.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio apresenta os pontos mais imporantantes do famoso livro Disciplina Positiva de Jane Nelsen. Com ele busco auxiliar mães atarefadas que não possuem tempo para ler o livro inteiro a aplicar um pouco da abordagem da autora na educação de seus filhos. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Fiquei tão empolgada com a criação deste conteúdo que estou cogitando criar um canal de podcast com resumos de livros de educação. Foi fantástico ver a qualidade do conteúdo que o ChatGPT tem condições de criar e a naturalidade das vozes sitentizadas.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
